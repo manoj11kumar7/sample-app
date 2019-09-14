@@ -64,9 +64,9 @@
     <version>2.0</version>
     <configuration>
         <deploymentType>cloudhub</deploymentType>
-        <muleVersion>${mule.version}</muleVersion>
-        <username>${uid}</username>
-        <password>${pwd}</password>
+        <muleVersion>3.8.4</muleVersion>
+        <username>test99991111</username>
+        <password>Test99991111</password>
 	      <workerType>Micro</workerType>
         <redeploy>true</redeploy>
         <environment>Sandbox</environment>
